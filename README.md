@@ -31,20 +31,20 @@ Version 1 completed and hosted
 
 <h2>Product page Design</h2>
 
-<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/master/media/screen7.png" alt="Product Design">
+<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/main/media/screen7.png" alt="Product Design">
 <hr>
 <h2>Product Details page Design</h2>
 
-<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/master/media/screen8.png" alt="Product Details Design">
+<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/main/media/screen8.png" alt="Product Details Design">
 <hr>
 
 <h2>Product Card page Design</h2>
 
-<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/master/media/screen9.png" alt="Product Card Details Design">
+<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/main/media/screen9.png" alt="Product Card Details Design">
 <hr>
 <h2>User order item</h2>
 
-<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/master/media/screen10.png" alt="User order Design">
+<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/main/media/screen10.png" alt="User order Design">
 <hr>
 <hr>
 
