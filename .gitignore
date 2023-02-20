@@ -1,0 +1,43 @@
+.idea/
+venv
+env
+media
+static
+__pycache__
+migrations
+.DS_Store
+manage.py
+requirements.txt
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+bagShop/wsgi.py
+bagShop/settings.py
+__pypackages__/
+main/templates
+main/forms.py
+main/models.py
+main/template_context.py
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+
+# C extensions
+*.so
