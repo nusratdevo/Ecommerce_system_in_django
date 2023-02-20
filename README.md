@@ -26,7 +26,7 @@ Version 1 completed and hosted
 
 <h2>Home Design</h2>
 
-<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/master/media/screen6.png" alt="Home Design">
+<img src="https://github.com/nusratdevo/Ecommerce_system_in_django/blob/main/media/screen6.png" alt="Home Design">
 <hr>
 
 <h2>Product page Design</h2>
