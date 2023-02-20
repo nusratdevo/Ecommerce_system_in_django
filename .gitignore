@@ -1,7 +1,6 @@
 .idea/
 venv
 env
-media
 static
 __pycache__
 migrations
